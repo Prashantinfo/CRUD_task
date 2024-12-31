@@ -1,4 +1,3 @@
-// controllers/userController.js
 const UserService = require('../service/userService');
 const { hashPassword, decryptPassword } = require('../utils/passutil');
 
